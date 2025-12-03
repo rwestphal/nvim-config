@@ -74,13 +74,6 @@ return {
     lazy = false,
   },
 
-  -- rustaceanvim
-  {
-    'mrcjkb/rustaceanvim',
-    version = '^6',
-    lazy = false,
-  },
-
   -- nvim-cmp
   {
     'hrsh7th/nvim-cmp',
